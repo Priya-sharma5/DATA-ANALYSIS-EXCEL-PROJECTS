@@ -5,6 +5,11 @@ This repository contains a collection of data analysis projects conducted in Mic
 
 ## Project List
 
+1. [Ecommerce Sales Analysis Dashboard](https://github.com/Priya-sharma5/DATA-ANALYSIS-EXCEL-PROJECTS/tree/68009168bab39af877f7e149d3da8edb9c749a57/1.%20Ecommerce%20Sales%20Analysis%20Dashboard)
+2. [HR Analytics Dashboard](https://github.com/Priya-sharma5/DATA-ANALYSIS-EXCEL-PROJECTS/tree/68009168bab39af877f7e149d3da8edb9c749a57/2.%20HR%20Analytics%20Dashboard)
+3. [Adidas Sales Analysis Dashboard](https://github.com/Priya-sharma5/DATA-ANALYSIS-EXCEL-PROJECTS/tree/68009168bab39af877f7e149d3da8edb9c749a57/3.%20Adidas%20Sales%20Analysis%20Dashborad)
+4. [MacDonald's Sales 2022 Dashboard](https://github.com/Priya-sharma5/DATA-ANALYSIS-EXCEL-PROJECTS/tree/68009168bab39af877f7e149d3da8edb9c749a57/4.%20MacDonalds%20Sales%202022%20Dashboard)
+
 ## Ecommerce Sales Analysis Dashboard
 
 An Ecommerce Sales Analysis Dashboard showcasing proficient data analysis in Microsoft Excel. Gain insights into sales, profit, regional performance, category-wise profitability, top-selling subcategories, and a pie chart analysis of ecommerce sales composition. This project offers a data-driven approach to decision-making within the ecommerce sector, aiding in revenue optimization and strategic planning
